@@ -1,0 +1,14 @@
+-+-----------+-------------------------------------------------------------------
+----------+
+| ntcmanila | $5$rounds=5000$ZahruWroslSpwrgq$xMgnCpKz8hQ5VSCJmsI8QSW058coBTYhzc
+WAvZ9Oqu5 |
+| it_eric   | $5$rounds=5000$ZahruWroslSpwrgq$FOt5b322Ab1tIb/db0BWWlj73c2BE2NE39
+Rna/.CMP1 |
+| it_jaime  | $5$rounds=5000$ZahruWroslSpwrgq$KaeZs3E8ZAKSHYh.UY/f2NHlpOpGVi9LiB
+v4yn14TY0 |
+| pd_steph  | $5$rounds=5000$ZahruWroslSpwrgq$7wzaM0F9J8Bn1jn25rvsmJtYIn3hi.APv5
+zASLNBFVD |
+| it_jeric  | $5$rounds=5000$ZahruWroslSpwrgq$p6FiMqcvCFFZ9ndrAxJfkk6JLU6PPxKNSM
+ZJN6cfVIC |
++-----------+-------------------------------------------------------------------
+----------+
